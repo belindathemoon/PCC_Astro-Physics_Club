@@ -14,7 +14,7 @@ The plan for today:
 - 5:30pm Show & Tell
 
 
-[Link to slides]()
+[Link to slides](https://docs.google.com/presentation/d/1zBYyXSsPfBiB-8y3snUkLHJ6fdj2sCo3fTnUqDL5JAM/edit?usp=sharing)
 
 ## Project Ideas
 -------------
