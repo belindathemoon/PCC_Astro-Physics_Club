@@ -1,1 +1,1 @@
-# PCC_Astro-Physics_Club
+# PCC Astronomy and Physics Club Repo
