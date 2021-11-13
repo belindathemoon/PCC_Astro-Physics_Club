@@ -2,6 +2,8 @@
 --------------------
 ### Welcome!
 
+[Ask a question anonymously](https://forms.gle/tKm4pHthjXRUddrs9)
+
 The plan for today:
 
 - 2:00pm Welcome & Introduction
