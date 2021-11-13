@@ -9,12 +9,12 @@ The plan for today:
 - 2:30pm Break into groups & get hacking!
 - Optional Workshops:
    - 2:45pm Intro to Python
-   - 3:50pm Best Practices for Collaborative Development
+   - 3:50pm Best Practices for Collaborative Development - [Slides here](https://docs.google.com/presentation/d/1ApT_zik_lbe0XKme0NJHdzESI2DIPjZ0bWC7eQ8kQso/edit?usp=sharing)
    - 4:30pm Intro to Git and Github
 - 5:30pm Show & Tell
 
 
-[Link to slides](https://docs.google.com/presentation/d/1zBYyXSsPfBiB-8y3snUkLHJ6fdj2sCo3fTnUqDL5JAM/edit?usp=sharing)
+[Link to intro slides](https://docs.google.com/presentation/d/1zBYyXSsPfBiB-8y3snUkLHJ6fdj2sCo3fTnUqDL5JAM/edit?usp=sharing)
 
 ## Project Ideas
 -------------
