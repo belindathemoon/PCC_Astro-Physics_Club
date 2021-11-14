@@ -10,9 +10,9 @@ The plan for today:
    - Project ideas
 - 2:30pm Break into groups & get hacking!
 - Optional Workshops:
-   - 2:45pm Intro to Python
+   - 2:45pm Intro to Python - [tutorial](https://colab.research.google.com/drive/1k7kQRZtGSX-s8OKXuwCvluNCO7iNvZnJ?usp=sharing)
    - 3:50pm Best Practices for Collaborative Development - [Slides here](https://docs.google.com/presentation/d/1ApT_zik_lbe0XKme0NJHdzESI2DIPjZ0bWC7eQ8kQso/edit?usp=sharing)
-   - 4:30pm Intro to Git and Github
+   - 4:30pm Intro to Git and Github - ["Mechanics of Git" lesson here](https://github.com/semaphoreP/codeastro/tree/main/Day2#useful-links)
 - 5:30pm Show & Tell
 
 
